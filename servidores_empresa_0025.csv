@@ -1,0 +1,7 @@
+﻿id_servidor,nombre_host,sistema_operativo,ram_gb,almacenamiento_tb,ip_address,estado,uptime_dias,responsable,fecha_ultima_parche
+SRV-01,web-prod-01,Ubuntu 22.04,32,2,192.168.1.10,Activo,120,Carlos,2024-01-05
+SRV-02,db-prod-01,Windows Server 2022,128,10,192.168.1.11,Activo,365,Ana,2024-01-05
+SRV-03,app-test-01,CentOS 8,16,1,192.168.2.10,Inactivo,0,Luis,N/A
+SRV-04,file-server,Ubuntu 20.04,64,20,192.168.1.20,Activo,200,Pedro,2023-12-20
+SRV-05,backup-01,Debian 11,32,50,192.168.3.10,Activo,400,Ana,2024-01-01
+SRV-06,mail-server,Windows Server 2019,32,4,192.168.1.15,Activo,150,Carlos,2023-12-15
